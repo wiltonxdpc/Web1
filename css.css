@@ -61,15 +61,15 @@
 	transform: rotateY(-180deg);
 
 }
-.cima.flipped{
+.cima.virado{
 	transform: rotateY(0deg);
 }
-.cima.flipped.acerto{
+.cima.virado.acerto{
 	box-shadow: 0 0 30px #0f0;
 }
 .cartao:hover{
 	box-shadow: 0 0 30px #aaa;
 }
-.baixo.flipped{
+.baixo.virado{
 	transform: rotateY(180deg);
 }
