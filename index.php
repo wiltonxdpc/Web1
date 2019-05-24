@@ -136,7 +136,7 @@
         <center><h2>Voce venceu, Parabens!!!</h2></center>	
       </div>
       <div class="modal-footer">
-        <center><a href="pagina2.html"><button type="button" class="btn btn-success" >Proxima Fase</button></center></a>
+        <center><a href="pagina2.php"><button type="button" class="btn btn-success" >Proxima Fase</button></center></a>
       </div>
     </div>
     </div>
